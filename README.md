@@ -9,5 +9,6 @@ You can buy it here: https://discord.gg/4VZShbzUhu
   <img src="https://cdn.discordapp.com/attachments/1129880311048699916/1129924066158051328/image.png" title="Power-proof">
 </p>
 
-![image](https://github.com/Exoduf0/ProDDOS/assets/119462427/98af4fb8-b3b3-452d-8c24-d6d673985782)
+![image](https://github.com/Exoduf0/ProDDOS/assets/119462427/c659acaf-5c6c-4ffe-bf0a-65d4e9c877a5)
+
 
