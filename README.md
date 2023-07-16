@@ -36,11 +36,13 @@
     * 🥶 Proxy Detection | Automaticly Detect if Proxy have big ping
     * 🥵 Optimalization | All Detections are made on your pc so Attack can be in Full Power!!
     * 🤯 Network Speed | Remote Network Speed Checker on All Server
+    * 😶 Discord Bot | If you don't have PC or Laptop we Offer our Server + Our Proxy and Discord bot to start ATTACK's!
 
 ## ToDO
   * 🥴 McBot | Minecraft Bot Attack
   * 🤪 Attack Stats | Attack Status Page with Stats for Attack like CPS, Total Requests etc.
   * 👽 More Methods | More Deadly Methods 😅
+  * 🤩 Attack Panel | Website with Auto-Payment and Attack Panel
 
 
 # Note:
