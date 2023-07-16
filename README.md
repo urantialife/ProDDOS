@@ -20,12 +20,16 @@
     * ⚔️ CloudFlare Bypass | Bypass CloudFlare Anti-DDOS
     * 💡 Bypass | Bypass Alot of Normal Anti-DDOS
     * 👌 Simple | Spam HTTP Requests
-    * 💀 Null | Null UserAgent
     * 😵 Special | Special😈
+    * 💀 NULL | Sending NULLED HTTP Requests
+    * 🤖 Invalid | Sending Invalid HTTP Requests
+    * 👾 BigL | Sending Big Invalid Htttp Requests
   * 🧨 Layer4:
     * 📬 Home | Bypass Home Anti-DDOS
     * 🗂 Byte | Spam with High Byte Packets
     * 💜 Brute | Brute Flood
+    * 🦾 Special | Special😈
+    * 👀 NULL | Spamming NULLED Packets
   * 🔥 Features:
     * 😱 Automatic Method | Detect with method is best for attack
     * 🤤 Remote Control | You can run attack on x servers with 1 click on your PC!
@@ -34,6 +38,7 @@
     * 🥵 Optimalization | All Detections are made on your pc so Attack can be in Full Power!!
     * 🤯 Network Speed | Remote Network Speed Checker on All Server
     * 😶 Discord Bot | If you don't have PC or Laptop we Offer our Server + Our Proxy and Discord bot to start ATTACK's!
+    * 👅 SpeedTest | Before Attack script check Upload Speed and show it
 
 ## ToDO
   * 🥴 McBot | Minecraft Bot Attack
