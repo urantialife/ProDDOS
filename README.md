@@ -5,4 +5,6 @@ If this Repo Reach 250 stars i will make Free Version!
 
 You can buy it here: https://discord.gg/4VZShbzUhu
 
-![alt text]([http://url/to/img.png](https://cdn.discordapp.com/attachments/1129880311048699916/1129924066158051328/image.png)https://cdn.discordapp.com/attachments/1129880311048699916/1129924066158051328/image.png)
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1129880311048699916/1129924066158051328/image.png" width="350" title="Power-proof">
+</p>
