@@ -29,7 +29,6 @@
     * 🗂 Byte | Spam with High Byte Packets
     * 💜 Brute | Brute Flood
     * 🦾 Special | Special😈
-    * 👀 NULL | Spamming NULLED Packets
   * 🔥 Features:
     * 😱 Automatic Method | Detect with method is best for attack
     * 🤤 Remote Control | You can run attack on x servers with 1 click on your PC!
