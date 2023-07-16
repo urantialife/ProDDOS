@@ -2,9 +2,9 @@
 <h1 align="center">ProDDOS - MultiThreaded L7 &amp; L4 DDOS tool with Remote Control Panel</h1>
 <em><h5 align="center">(Programming Language - Python 3 &amp; JavaScript)</h5></em>
 
-<p align="center">If this Repo Reach 250 stars i will make Free Version!</p>
+<p align="center">If this Repo get some Stars i will Update it!</p>
 
-<p align="center"You can buy it here: https://discord.gg/4VZShbzUhu</p>
+<p align="center"You can buy FULL Version here: https://discord.gg/4VZShbzUhu</p>
 
 
 <p align="center">
