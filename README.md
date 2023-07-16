@@ -44,7 +44,7 @@
 
 
 # Note:
-If you find any problems than please write on issue github and to our Telegram Group. Don't use for revenge! Make sure your anonymity!
+If you find any problems then please write on issue github. Don't use for revenge! Make sure your anonymity!
 It's made for just testing purpose.
 We are not responsible for any abuse or damage caused by this program. Only for Educational Purpose.
 Thanks.
