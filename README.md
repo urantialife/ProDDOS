@@ -22,13 +22,10 @@
     * 👌 Simple | Spam HTTP Requests
     * 💀 Null | Null UserAgent
     * 😵 Special | Special😈
-    * 📈 STRESS | Stress website with high byte
   * 🧨 Layer4:
     * 📬 Home | Bypass Home Anti-DDOS
     * 🗂 Byte | Spam with High Byte Packets
-    * 💜 TCP | TCP Flood
-    * 🖤 UDP | UDP Flood
-    * 💛 SYN | SYN Flood
+    * 💜 Brute | Brute Flood
   * 🔥 Features:
     * 😱 Automatic Method | Detect with method is best for attack
     * 🤤 Remote Control | You can run attack on x servers with 1 click on your PC!
