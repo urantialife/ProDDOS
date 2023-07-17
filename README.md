@@ -47,9 +47,9 @@
   * 👽 More Methods | More Deadly Methods 😅
   * 🤩 Attack Panel | Website with Auto-Payment and Attack Panel
 
-## Update v1.1-2
-  * Added 4-layer Protection
-    * No one can access your servers by Remote Control API bcs we added 4-layer protection that is canceling Attack requests from other ppl only you can send attack requests!  
+## Update v1.1-3
+  * Added Storm L7 Method
+  * Optimized Code!
 
 # Note:
 If you find any problems then please write on issue github. Don't use for revenge! Make sure your anonymity!
