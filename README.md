@@ -39,6 +39,7 @@
     * 🤯 Network Speed | Remote Network Speed Checker on All Server
     * 😶 Discord Bot | If you don't have PC or Laptop we Offer our Server + Our Proxy and Discord bot to start ATTACK's!
     * 👅 SpeedTest | Before Attack script check Upload Speed and show it
+    * 🔒 Protection | Your Servers are protected no one else can acces your servers by Remote Control API bcs of 4-layer protection 
 
 ## ToDO
   * 🥴 McBot | Minecraft Bot Attack
@@ -46,15 +47,9 @@
   * 👽 More Methods | More Deadly Methods 😅
   * 🤩 Attack Panel | Website with Auto-Payment and Attack Panel
 
-## Update v1.1
-  * Added New Methods
-    * L7:
-      * 👾 BigL | Sending Big Invalid Htttp Requests
-      * 🤖 Invalid | Sending Invalid HTTP Requests
-    * L4:
-      * 🦾 Special | Special😈
-  * Updated NULL💀 Method
-  * Updated Panel😈
+## Update v1.1-2
+  * Added 4-layer Protection
+    * No one can access your servers by Remote Control API bcs we added 4-layer protection that is canceling Attack requests from other ppl only you can send attack requests!  
 
 # Note:
 If you find any problems then please write on issue github. Don't use for revenge! Make sure your anonymity!
