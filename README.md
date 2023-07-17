@@ -25,6 +25,7 @@
     * 💀 NULL | Sending NULLED HTTP Requests
     * 🤖 Invalid | Sending Invalid HTTP Requests
     * 👾 BigL | Sending Big Invalid Htttp Requests
+    * ⚡️ Storm | Sends Connections Like Stormm lolz
   * 🧨 Layer4:
     * 📬 Home | Bypass Home Anti-DDOS
     * 🗂 Byte | Spam with High Byte Packets
