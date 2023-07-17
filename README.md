@@ -11,7 +11,8 @@
   <img src="https://cdn.discordapp.com/attachments/1129880311048699916/1129924066158051328/image.png" title="Power-proof">
 </p>
 
-![image](https://github.com/Exoduf0/ProDDOS/assets/119462427/c659acaf-5c6c-4ffe-bf0a-65d4e9c877a5)
+![image](https://github.com/Exoduf0/ProDDOS/assets/119462427/e83d77e4-5359-4701-ba18-ce8e92fae8b0)
+
 
 ## Features And Methods 
 
@@ -45,6 +46,15 @@
   * 👽 More Methods | More Deadly Methods 😅
   * 🤩 Attack Panel | Website with Auto-Payment and Attack Panel
 
+## Update v1.1
+  * Added New Methods
+    * L7:
+      * 👾 BigL | Sending Big Invalid Htttp Requests
+      * 🤖 Invalid | Sending Invalid HTTP Requests
+    * L4:
+      * 🦾 Special | Special😈
+  * Updated NULL💀 Method
+  * Updated Panel😈
 
 # Note:
 If you find any problems then please write on issue github. Don't use for revenge! Make sure your anonymity!
