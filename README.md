@@ -29,7 +29,6 @@
     * 📬 Home | Bypass Home Anti-DDOS
     * 🗂 Byte | Spam with High Byte Packets
     * 💜 Brute | Brute Flood
-    * 🦾 Special | Special😈
   * 🔥 Features:
     * 😱 Automatic Method | Detect with method is best for attack
     * 🤤 Remote Control | You can run attack on x servers with 1 click on your PC!
