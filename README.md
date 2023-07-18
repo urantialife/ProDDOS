@@ -26,6 +26,8 @@
     * 🤖 Invalid | Sending Invalid HTTP Requests
     * 👾 BigL | Sending Big Invalid Htttp Requests
     * ⚡️ Storm | Sends Connections Like Stormm lolz
+    * 🥶 Fast | Fast Connections
+    * 🥵 SFast | Super Fast Connections
   * 🧨 Layer4:
     * 📬 Home | Bypass Home Anti-DDOS
     * 🗂 Byte | Spam with High Byte Packets
@@ -47,9 +49,11 @@
   * 👽 More Methods | More Deadly Methods 😅
   * 🤩 Attack Panel | Website with Auto-Payment and Attack Panel
 
-## Update v1.1-3
-  * Added Storm L7 Method
-  * Optimized Code!
+## Update v1.1-4
+  * Added L7 Methods
+      * Added Fast
+      * Added SFast
+          * Fast & SFast are Super Effective Methods to ddos but simple iptables can stop them bcs they don't use Proxies... 
 
 # Note:
 If you find any problems then please write on issue github. Don't use for revenge! Make sure your anonymity!
