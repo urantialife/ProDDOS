@@ -4,7 +4,9 @@
 
 <p align="center">If this Repo get some Stars i will Update it!</p>
 
-<p align="center"You can buy FULL Version here: https://discord.gg/4VZShbzUhu</p>
+<p align="center">This is Tool is only For Testing on Your Own Website or with permission</p>
+
+<p align="center"You can buy FULL Version on my discord</p>
 
 
 <p align="center">
